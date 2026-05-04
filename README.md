@@ -1,5 +1,5 @@
 # Student Grade Management System
-#### Video Demo: <https://youtu.be/sCaVGtZXKJg?si=Zp9r10ggI_OnFPzH>
+
 #### Description:
 
 This project is a **Student Grade Management System** implemented in Python.  
